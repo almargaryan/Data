@@ -1,5 +1,4 @@
-{
-  "users": [
+[
     {
       "id": "1",
       "avatar": "https://i.pinimg.com/564x/88/a4/78/88a478ee6261b890d3c21548869cb357.jpg",
@@ -91,5 +90,4 @@
       "phone": "+37498210036",
       "Country": "Armenia",
     }
-  ]
-}
+]
